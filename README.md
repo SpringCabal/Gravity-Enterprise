@@ -21,7 +21,12 @@ git clone --recurisve https://github.com/SpringCabal/Gravitas.git Gravitas.sdd
 # Example:
 wget https://www.dropbox.com/s/15ob10ngwwhyxn0/Brownwood.sd7?dl=1
 
-# Finally, go to your Spring DATA_DIR folder (for me ~/.config/spring/) and obtain this project
+# Finally, go to your Spring DATA_DIR folder (for me ~/.config/spring/) and make a projects directory: 
+mkdir projects
+# enter it
+cd projects
+
+# then obtain this project
 git clone https://github.com/SpringCabal/Gravity-Enterprise.git
 
 # Once you've done that, you should enter the project dir: Gravity-Enterprise
