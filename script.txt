@@ -1,6 +1,6 @@
 [GAME]
 {
-	MapName=Brownwood;
+	MapName=Gravitas Enterprise;
 	GameMode=0;
 	GameType=Scenario Editor Gravitas git;
 
