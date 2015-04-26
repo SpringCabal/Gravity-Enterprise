@@ -2224,7 +2224,7 @@ return {
       rules = {
         n = 1,
         [1] = {
-          destroyable = 1,
+          invulnerable = 0,
         },
       },
       states = {
@@ -17130,7 +17130,7 @@ return {
       rules = {
         n = 1,
         [1] = {
-          destroyable = 1,
+          invulnerable = 0,
         },
       },
       states = {
