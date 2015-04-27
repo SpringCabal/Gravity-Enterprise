@@ -16,10 +16,9 @@ git clone https://github.com/SpringCabal/Scenario-Editor-Gravitas.git Scenario-E
 # Get our game (you probably already did this!!!)
 git clone --recurisve https://github.com/SpringCabal/Gravitas.git Gravitas.sdd
 
-# Make sure you have Brownwood map in your MAPS directory (it's used as a dependency until this map is compiled):
-# If not download this: https://www.dropbox.com/s/15ob10ngwwhyxn0/Brownwood.sd7?dl=1
-# Example:
-wget https://www.dropbox.com/s/15ob10ngwwhyxn0/Brownwood.sd7?dl=1
+# Make sure you have Gravitas-map in your MAPS directory (it's the compiled map this runs on):
+# You can get it via:
+git clone --recursive https://github.com/SpringCabal/Gravitas-map.git Gravitas-map.sdd
 
 # Finally, go to your Spring DATA_DIR folder (for me ~/.config/spring/) and make a projects directory: 
 mkdir projects
