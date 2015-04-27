@@ -18,7 +18,7 @@ git clone --recurisve https://github.com/SpringCabal/Gravitas.git Gravitas.sdd
 
 # Make sure you have Gravitas-map in your MAPS directory (it's the compiled map this runs on):
 # You can get it via:
-git clone --recursive https://github.com/SpringCabal/Gravitas-map.git Gravitas-map.sdd
+git clone https://github.com/SpringCabal/Gravitas-map.git Gravitas-map.sdd
 
 # Finally, go to your Spring DATA_DIR folder (for me ~/.config/spring/) and make a projects directory: 
 mkdir projects
